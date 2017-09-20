@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	seqHook, _ := NewSeqHook("http://localhost:5341", "4jZzTybZ9bUHtJiPdh6")
+	seqHook, _ := NewSeqHook("http://localhost:5341", "API-TOKEN")
 	logrus.AddHook(seqHook)
 	logrus.WithFields(logrus.Fields{"key": "value"}).Info("Logging on SEQ")
 	logrus.WithFields(logrus.Fields{"key": "value"}).Warn("Logging on SEQ")
