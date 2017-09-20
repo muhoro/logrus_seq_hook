@@ -1,4 +1,6 @@
-# SEQ Hooks for [Logrus](https://github.com/sirupsen/logrus) <img src="https://avatars2.githubusercontent.com/u/5023402?v=4&s=200" width="40" height="40"/>
+<img src="https://avatars2.githubusercontent.com/u/5023402?v=4&s=200" width="40" height="40"/>
+
+# SEQ Hooks for [Logrus](https://github.com/sirupsen/logrus) <img src="http://i.imgur.com/hTeVwmJ.png" width="40" height="40" alt=":walrus:" class="emoji" title=":walrus:"/>
 
 ## Install
 
